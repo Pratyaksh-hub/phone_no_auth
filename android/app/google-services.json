@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433374713720",
+    "project_id": "le-auth-bfb91",
+    "storage_bucket": "le-auth-bfb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433374713720:android:86282dd22727efd6c2da8d",
+        "android_client_info": {
+          "package_name": "com.example.le_auth_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433374713720-mm4shavn8ucktbkeqpba79pa0amdfksh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.le_auth_proj",
+            "certificate_hash": "a47e2d2a8302771efbd8c03a460ec1baaafaad46"
+          }
+        },
+        {
+          "client_id": "433374713720-ere6743n9tlh167s188dihojflaolsl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCqEwWXae_EI1oaEPPiwRsn6NUoFtSs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433374713720-ere6743n9tlh167s188dihojflaolsl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
